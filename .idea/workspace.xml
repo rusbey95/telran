@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="826b4715-1458-4910-88f8-471a01e89afa" name="Changes" comment="First java lesson">
-      <change afterPath="$PROJECT_DIR$/src/Lesson2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson2/Lesson2DemoClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_48_49/Lesson2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_48_49/LessonVarExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/group_48_49/test1/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Lesson2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LessonVarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/LessonVarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test1/test1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +74,29 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lesson2">
+  <component name="RunManager" selected="Application.Lesson2DemoClass">
     <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2" />
+      <option name="MAIN_CLASS_NAME" value="lesson2.Lesson2" />
       <module name="group_48_49" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson2DemoClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.Lesson2DemoClass" />
+      <module name="group_48_49" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LessonVarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LessonVarExample" />
+      <option name="MAIN_CLASS_NAME" value="lesson1.LessonVarExample" />
       <module name="group_48_49" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,7 +114,7 @@
       <module name="group_48_49" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test1.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson2DemoClass" />
         <item itemvalue="Application.Lesson2" />
         <item itemvalue="Application.LessonVarExample" />
         <item itemvalue="Application.test1" />
@@ -146,7 +168,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/LessonVarExample.java</url>
+          <url>file://$PROJECT_DIR$/src/lesson1/LessonVarExample.java</url>
           <line>1</line>
           <properties class="LessonVarExample" method="main">
             <option name="EMULATED" value="true" />
@@ -164,7 +186,7 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LessonVarExample.java</url>
+          <url>file://$PROJECT_DIR$/src/lesson1/LessonVarExample.java</url>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
