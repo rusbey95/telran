@@ -60,13 +60,26 @@ public class Lesson2 {
         System.out.println("Discount % = " + discountResult7);
         System.out.println("Price + Sale = " + sumDiscount7);
 
+        // Task 8
+        String b8 = "test";
+        System.out.println(b8);
+
+        // Task 9
+        String name1 = "Ivan";
+        String name2 = "Petr";
+        System.out.println("Hi " + name1 + "! How are you?");
+        System.out.println("Hi " + name2 + "! How are you?");
+
         /* classwork
+
             Type conversion:
             byte -> short -> int -> long
-         */
-        long xClass = 10000000000L;
-        System.out.println(xClass);
 
+
+            long xClass = 10000000000L;
+            System.out.println(xClass);
+
+         */
 
 
     }
