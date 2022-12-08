@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="826b4715-1458-4910-88f8-471a01e89afa" name="Changes" comment="First java lesson">
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson2/Lesson2DemoClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/group_48_49/Lesson2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/group_48_49/LessonVarExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/group_48_49/test1/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/Lesson2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LessonVarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson1/LessonVarExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test1/test1.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
